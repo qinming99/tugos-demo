@@ -15,6 +15,8 @@
         <module>nacos-dubbo-consumer</module>
         <module>webservice-demo</module>
         <module>websocket-demo</module>
+        <module>i18n-demo</module>
+        <module>spring-schedule-demo</module>
     </modules>
 
     <properties>
@@ -85,7 +87,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>${hutool.version}</version>
+            <version>5.4.1</version>
         </dependency>
         <!-- guava工具类 -->
         <dependency>
