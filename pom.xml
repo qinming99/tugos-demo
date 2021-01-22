@@ -17,6 +17,7 @@
         <module>websocket-demo</module>
         <module>i18n-demo</module>
         <module>spring-schedule-demo</module>
+        <module>spring-redis-demo</module>
     </modules>
 
     <properties>
