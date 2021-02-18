@@ -18,6 +18,8 @@
         <module>i18n-demo</module>
         <module>spring-schedule-demo</module>
         <module>spring-redis-demo</module>
+        <module>log-aop-demo</module>
+        <module>spring-local-cache</module>
     </modules>
 
     <properties>
